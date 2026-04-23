@@ -1,6 +1,10 @@
-qdrant-client
+faiss-cpu
 sentence-transformers
 transformers
 torch
-rank-bm25
 accelerate
+fastapi
+uvicorn
+python-multipart
+pypdf
+numpy
